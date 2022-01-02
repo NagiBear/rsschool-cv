@@ -54,3 +54,11 @@ technologies.
 
 ### **Interest:**
 Prototyping, design, painting, mastering new technologies and programs and healthy lifestyle.
+===
+
+### **Portfolio:** [https://drive.google.com/drive/folders/1cnD-WR0P14Hx-qrHz_u-GP-jGVnQyItl?usp=sharing]
+===
+
+### **Language:**
+* Russian
+* English level - A2
