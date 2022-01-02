@@ -1,6 +1,5 @@
 # **Andrey Snytko**
 
-===
 
 ## **Contact:**
 * **Phone:** +7(921)-770-91-99
@@ -8,7 +7,6 @@
 * **Instagram:** @_nagibear_
 * **VK:** vk.com/nagibear
 * **Email:** andreysnytko.13@gmail.com
-===
 
 ### **Job Objective:**
 UX / UI designer with one year of experience. Participant and prizewinner of various Olympiads
@@ -16,7 +14,6 @@ and hackathons. Freelancer with more than 3 years of experience. I have develope
 for the Ministry of defense, government organizations, and various companies, and I am working on my
 own projects. I attend various courses and webinars to improve my skills in this field. I am interested in
 the position of UX designer in your company.
-===
 
 ### **Work experience:**
 **March 2020 – now:** I am working on an app interface for online rap battles. It will made in the
@@ -36,28 +33,25 @@ functionality and the presented technologies are taken as the basis for the appl
 the Armed forces, which was approved and will soon be implemented in this structure.
 Here are the major projects over the past six months, in addition, I took orders for landing,
 creation of logos, icons, etc.
-===
 
 ### **Education:**
 **2016 – 2021:** Academy of telecommunications, specialty engineer-specialist
 **2011 – 2016:** Federal state educational institution "Orenburg presidential cadet school", faculty
 of «Information technology»
-===
 
 ### **Skills:**
 Easily I give in to training. I like to monitor the development of computer and mobile
 technologies.
-===
 
 ### **Computer knowledge:** Adobe XD, Photoshop, Illustrator, After Effect, Premiere, Office, etc...
-===
 
 ### **Interest:**
 Prototyping, design, painting, mastering new technologies and programs and healthy lifestyle.
-===
 
-### **Portfolio:** [https://drive.google.com/drive/folders/1cnD-WR0P14Hx-qrHz_u-GP-jGVnQyItl?usp=sharing]
-===
+
+### **Portfolio:** 
+[https://drive.google.com/drive/folders/1cnD-WR0P14Hx-qrHz_u-GP-jGVnQyItl?usp=sharing]
+
 
 ### **Language:**
 * Russian
