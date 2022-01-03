@@ -12,9 +12,7 @@
 UX / UI designer with one year of experience. Participant and prizewinner of various Olympiads
 and hackathons. Freelancer with more than 3 years of experience. I have developed various prototypes
 for the Ministry of defense, government organizations, and various companies, and I am working on my
-own projects. I attend various courses and webinars to improve my skills in this field. I am interested in
-the position of UX designer in your company.
-
+own projects. I attend various courses and webinars to improve my skills in this field.
 ### **Work experience:**
 **March 2020 – now:** I am working on an app interface for online rap battles. It will made in the
 style of a comic book and represent a kind of online platform for communication and battles between
