@@ -62,35 +62,35 @@ float: right;
 
 .mail {
     list-style: none;
-    background: url(/images/mail.svg) no-repeat 0;
+    background: url(images/mail.svg) no-repeat 0;
     padding-left: 40px;
 	margin-bottom: 15px;
    }
 
 .gitlog{
 	list-style: none;
-    background: url(/images/git\ blue.svg) no-repeat 0;
+    background: url(images/git\ blue.svg) no-repeat 0;
     padding-left: 40px;
 	margin-bottom: 15px;
 }
 
 .vk{
 	list-style: none;
-    background: url(/images/icons8-vk-в-круге.svg) no-repeat 0;
+    background: url(images/icons8-vk-в-круге.svg) no-repeat 0;
     padding-left: 40px;
 	margin-bottom: 15px;
 }
 
 .phone{
 	list-style: none;
-    background: url(/images/phone.svg) no-repeat 0;
+    background: url(images/phone.svg) no-repeat 0;
     padding-left: 40px;
 	margin-bottom: 15px;
 }
 
 .map{
 	list-style: none;
-    background: url(/images/map.svg) no-repeat 0;
+    background: url(images/map.svg) no-repeat 0;
     padding-left: 40px;
 	margin-bottom: 15px;
 }
@@ -118,28 +118,28 @@ float: right;
 }
 
 .backpku{
-	background: url(/images/pkuPhoto.jpg);
+	background: url(images/pkuPhoto.jpg);
 	background-position:center;
 	background-repeat: no-repeat;
 	background-size:cover;
 }
 
 .academy{
-	background: url(/images/jHVKtw1ytXo.jpg);
+	background: url(images/jHVKtw1ytXo.jpg);
 	background-position:center;
 	background-repeat: no-repeat;
 	background-size:cover;
 }
 
 .developer{
-	background: url(/images/3rsschool.jpg);
+	background: url(images/3rsschool.jpg);
 	background-position:center;
 	background-repeat: no-repeat;
 	background-size:cover;
 }
 
 .future{
-	background: url(/images/02-1.jpg);
+	background: url(images/02-1.jpg);
 	background-position:center;
 	background-repeat: no-repeat;
 	background-size:cover;
