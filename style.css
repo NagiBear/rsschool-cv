@@ -1,0 +1,257 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Gugi', sans-serif;
+	font-size: 16px
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background-image: radial-gradient(#507EC0 35%, #101010 74%);
+}
+.container {
+	width: 1092px;
+	height: 2472px;
+	padding: 0 174px;
+	background: url(images/background2.jpg);
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.topnav {
+    overflow: hidden;
+	width: 1092px;
+	height: 87px;
+	padding: 47px 0;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #507EC0;
+    color: #efe3e0;
+}
+
+.navbar{
+float: right;
+}
+
+.profile{
+	width: 1008px;
+	height: 336px;
+	background: url(images/MyPhoto.jpg) ;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 57px 42px;
+	color: #efe3e0;
+}
+
+
+
+.mail {
+    list-style: none;
+    background: url(images/mail.svg) no-repeat 0;
+    padding-left: 40px;
+	margin-bottom: 15px;
+   }
+
+.gitlog{
+	list-style: none;
+    background: url(images/git\ blue.svg) no-repeat 0;
+    padding-left: 40px;
+	margin-bottom: 15px;
+}
+
+.vk{
+	list-style: none;
+    background: url(images/icons8-vk-в-круге.svg) no-repeat 0;
+    padding-left: 40px;
+	margin-bottom: 15px;
+}
+
+.phone{
+	list-style: none;
+    background: url(images/phone.svg) no-repeat 0;
+    padding-left: 40px;
+	margin-bottom: 15px;
+}
+
+.map{
+	list-style: none;
+    background: url(images/map.svg) no-repeat 0;
+    padding-left: 40px;
+	margin-bottom: 15px;
+}
+
+.aboutme{
+	width: 1008px;
+	height: 220px;
+	background: #101010;
+	padding: 25px 42px;
+	color: #efe3e0;
+}
+
+.column {
+	width: 50%;
+	float: left;
+}
+
+.education{
+	width: 481px;
+	height: 257px;
+	background: #101010;
+	padding: 30px;
+	color: #efe3e0;
+	margin: 10px 0;
+}
+
+.backpku{
+	background: url(images/pkuPhoto.jpg);
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.academy{
+	background: url(images/jHVKtw1ytXo.jpg);
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.developer{
+	background: url(images/3rsschool.jpg);
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.future{
+	background: url(images/02-1.jpg);
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.skill {
+	width: 592px;
+	height: 220px;
+	background: #101010;
+	padding: 40px 250px;
+	color: #efe3e0;
+}
+
+.description {
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	margin: 42px auto 12px auto;
+}
+
+.skillbox{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+.mycode {
+	width: 1008px;
+	background: #101010;
+	padding: 57px 42px;
+	color: #efe3e0;
+}
+
+footer {
+	background: #507EC0;
+	width: 1440px;
+	height: 32px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 14px 0
+}
+
+h1, h2 {
+	text-transform: uppercase;
+}
+
+.secondname {
+	color: #efe3e0;
+	display: flex;
+	align-items: center;
+	justify-items: left;
+	
+}
+
+
+h1 {
+	font-family: 'Audiowide';
+	font-size: 42px;
+	color: #ff2cea;
+}
+
+h2, h3 {
+	font-family: 'Allerta Stencil';
+	font-size: 24px;
+	text-align: center;
+	width: 100%;
+	padding: 16px 0 16px 0;
+}
+
+h3 {
+	color: #efe3e0
+}
+
+.subheader {
+	color: #ff2cea
+}
+
+.listlanguage {
+	color: #efe3e0;
+}
+
+button {
+	background: #ff2cea;
+	display: flex;
+	align-items: center;
+  	justify-content: center;
+	padding: 14px 0;
+	width: 202px;
+	text-transform: uppercase;
+	color: #efe3e0;
+	margin-right: 20px;
+	border: 0
+}
+  
+.about-me-buttons {
+	width: 404px;
+	display: flex;	
+	align-items: center;
+  	justify-content: center;
+	margin: 0 auto
+}
+
+.skillpicture{
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.footerbox{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
