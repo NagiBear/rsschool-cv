@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NagiBear.github.io/rsschool-cv/
