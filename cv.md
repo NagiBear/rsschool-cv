@@ -1,6 +1,5 @@
 # **Andrey Snytko**
 
-
 ## **Contact:**
 * **Phone:** +7(921)-770-91-99
 * **Diskord:** NagiBear#8961
