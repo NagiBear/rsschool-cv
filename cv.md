@@ -35,6 +35,7 @@ creation of logos, icons, etc.
 **2016 – 2021:** Academy of telecommunications, specialty engineer-specialist
 **2011 – 2016:** Federal state educational institution "Orenburg presidential cadet school", faculty
 of «Information technology»
+**2021 - 2022:** JS developer training at RSSCHOOL
 
 ### **Skills:**
 Easily I give in to training. I like to monitor the development of computer and mobile
